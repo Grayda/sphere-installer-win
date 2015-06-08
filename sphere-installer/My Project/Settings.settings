@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="scriptBaseURL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://github.com/</Value>
+    </Setting>
+    <Setting Name="scriptVersion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">v0.0.1</Value>
+    </Setting>
+    <Setting Name="scriptName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">web-install.sh</Value>
+    </Setting>
+    <Setting Name="projectName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sphere-installer</Value>
+    </Setting>
+    <Setting Name="scriptAuthor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Grayda</Value>
+    </Setting>
+    <Setting Name="sphereUsername" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ninja</Value>
+    </Setting>
+    <Setting Name="spherePassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">temppwd</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
